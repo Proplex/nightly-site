@@ -2627,36 +2627,22 @@ hr {
     box-flex: 0;
     display: inherit;
 }
-#apple {
-	margin-left:auto ;
-	margin-top: .5em;
-}
+
 #t1 {
-	margin-left: -3.5em;
-	border:0px;
+    margin-left:-4em;
+    margin-right:auto;
+    border:0px;
 	background-color: #24221F;
 }
+
 #t2 {
-        margin-left: auto;
-        border:0px;
-        background-color: #24221F;
-}
-#suse {
-	margin: auto;
-	background-color: #24221F;
-	margin-top: 2em;
-}
-#ubuntu {
-    margin-right: auto;
+    margin-left:auto;
+    margin-right:auto;
+    border:0px;
     background-color: #24221F;
-    margin-top: 2em;
 }
+
 .logo {
 	margin-left: 100px;
-	margin-top: 2em;
-}
-#linux {
-}
-.lin {
-	transition: width 2s, height 2s, transform 2s;
+	margin-top: 1.5em;
 }
