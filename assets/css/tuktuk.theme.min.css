@@ -211,9 +211,9 @@ body [data-control="checkbox"].checked label {
 }
 
 body table {
-    background: #fff;
+    background: #24221F;
     color: #4b5f6d;
-    border: .1em solid #c4d2df;
+    border: .1em solid #24221F;
 }
 
 body table tr:nth-child(even) td {
